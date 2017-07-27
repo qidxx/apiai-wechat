@@ -19,7 +19,7 @@ except ImportError:
 robot = werobot.WeRoBot(token='2333')
 
 
-CLIENT_ACCESS_TOKEN = ''
+CLIENT_ACCESS_TOKEN = 'e7c1358015ab4c469acbcf0fb91e5bd8'
 
 class JSONObject:
 	def __init__(self, d):
